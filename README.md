@@ -15,15 +15,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp 
 </p>
-<br><br>
-
-<h3 align="center"> 🔫 Currently Learning 🔫 </h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
-</p>
-<br><br>
+<br>
 
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
@@ -31,7 +23,7 @@
   <a href="mailto:chaewseo12@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chaewseo12@gmail.com"/></a>
 </p>
 
-<br><br>
+<br>
 <h3 align=center> 🐣 My solved.ac 🐣 </h3>
 <div align=center> 
 
